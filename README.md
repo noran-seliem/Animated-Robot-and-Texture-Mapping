@@ -6,7 +6,7 @@
 <div style="page-break-after: always;"></div>
 
 ## Table of content
-### part A :
+
 * Task Objectives
 * Usage (Keyboard Shortcuts)
 * Animations
